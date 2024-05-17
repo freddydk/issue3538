@@ -1,0 +1,39 @@
+{
+  "id": "d4c9ac08-a3b5-4beb-9e36-5287442064e1",
+  "name": "App A",
+  "publisher": "ChrisBlankDe",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "propagateDependencies": true,
+  "dependencies": [
+    {
+      "id": "ac14293f-1eb7-4a7b-9936-b280da31970b",
+      "name": "Data Search",
+      "publisher": "Microsoft",
+      "version": "24.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50110
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
